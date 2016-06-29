@@ -12,13 +12,13 @@ github-repo: rstudio/bookdown-demo
 description: "这是我学习R的一些记录，主要记录一些重要的包的理解和个人的应用，以及个人结合工作编写的一些简单程序。"
 ---
 
-## "2016-06-28"
+## 2016-06-28
 
 * 今天浏览网页，无意中发现了[谢益辉](https://github.com/yihui)正通过他自己开发的[bookdown](https://bookdown.org/)写作一本新书[《R语言忍者秘笈》](https://bookdown.org/yihui/r-ninja/)，觉得这个应用很好，自己也可以把学习过程中的一些东西记录下来，一来方便查阅，二来也可以作为学习的一个记录，不期待可以上网发布，但可以不断的勉励自己。
 
 * 近期在阅读[Jared P.Lander](http://www.jaredlander.com/)的著作[《R语言 实用数据分析和可视化技术》](http://www.jaredlander.com/r-for-everyone/)，打算依托本书，把之前学习的碎片化的知识整合在这本书中，以便查阅。
 
-## "2016-06-29"
+## 2016-06-29
 
 * git的相关知识还需要熟悉，Rstudio高度集成了git的相关应用，傻瓜式的操作目前初步掌握了，坚持吧！
 
